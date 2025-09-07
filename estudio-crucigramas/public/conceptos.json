@@ -1,0 +1,1002 @@
+[
+  {
+    "concepto": "Función",
+    "definicion": "Relación que asigna a cada elemento de un conjunto exactamente un elemento de otro conjunto.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Límite",
+    "definicion": "Valor al que se aproxima una función cuando la variable independiente se acerca a cierto punto.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Continuidad",
+    "definicion": "Propiedad de una función que no presenta saltos ni interrupciones en un punto.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Derivada",
+    "definicion": "Tasa de cambio instantánea de una función respecto de su variable.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Regla de la cadena",
+    "definicion": "Método para derivar la composición de dos o más funciones.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Extremo relativo",
+    "definicion": "Máximo o mínimo local que una función alcanza en un intervalo.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Pendiente",
+    "definicion": "Razón de cambio de una recta; en el gráfico es la inclinación.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Recta tangente",
+    "definicion": "Recta que toca a una curva en un punto y tiene la misma pendiente en ese punto.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Punto crítico",
+    "definicion": "Punto donde la derivada es cero o no existe y puede haber extremos.",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Concavidad",
+    "definicion": "Dirección de la curvatura de una función (hacia arriba o hacia abajo).",
+    "tema": "Matemática: Cálculo diferencial"
+  },
+  {
+    "concepto": "Ecuación lineal",
+    "definicion": "Igualdad con incógnita de primer grado que puede escribirse ax + b = 0.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Sistema de ecuaciones",
+    "definicion": "Conjunto de ecuaciones que comparten incógnitas y se resuelven simultáneamente.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Matriz",
+    "definicion": "Arreglo rectangular de números organizado en filas y columnas.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Determinante",
+    "definicion": "Número asociado a una matriz cuadrada que indica, entre otras cosas, si es invertible.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Polinomio",
+    "definicion": "Expresión algebraica formada por suma de monomios.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Factorización",
+    "definicion": "Descomposición de un polinomio en producto de factores más simples.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Raíz de un polinomio",
+    "definicion": "Valor que anula al polinomio al sustituir la variable.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Función cuadrática",
+    "definicion": "Función de la forma f(x)=ax²+bx+c; su gráfica es una parábola.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Discriminante",
+    "definicion": "Expresión b²−4ac que indica la cantidad de soluciones reales de una cuadrática.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Progresión aritmética",
+    "definicion": "Sucesión con diferencia constante entre términos consecutivos.",
+    "tema": "Matemática: Álgebra"
+  },
+  {
+    "concepto": "Triángulo rectángulo",
+    "definicion": "Triángulo con un ángulo de 90°.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Teorema de Pitágoras",
+    "definicion": "En un triángulo rectángulo, a² + b² = c² para los catetos y la hipotenusa.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Perímetro",
+    "definicion": "Suma de las longitudes de los lados de una figura plana.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Área",
+    "definicion": "Medida de la superficie de una figura plana.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Volumen",
+    "definicion": "Medida del espacio ocupado por un sólido.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Circunferencia",
+    "definicion": "Conjunto de puntos a una distancia fija de un centro en el plano.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Ángulo suplementario",
+    "definicion": "Par de ángulos que suman 180°.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Polígono regular",
+    "definicion": "Polígono con todos sus lados y ángulos iguales.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Semejanza",
+    "definicion": "Relación entre figuras con la misma forma pero distinto tamaño.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Teorema de Tales",
+    "definicion": "Establece proporciones entre segmentos determinados por líneas paralelas.",
+    "tema": "Matemática: Geometría"
+  },
+  {
+    "concepto": "Media aritmética",
+    "definicion": "Promedio de un conjunto de datos; suma dividida por la cantidad.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Mediana",
+    "definicion": "Valor central de un conjunto de datos ordenados.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Moda",
+    "definicion": "Valor que más se repite en un conjunto de datos.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Varianza",
+    "definicion": "Promedio del cuadrado de las diferencias respecto de la media.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Desviación estándar",
+    "definicion": "Raíz cuadrada de la varianza; mide la dispersión de los datos.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Probabilidad condicional",
+    "definicion": "Probabilidad de un evento dado que otro ha ocurrido.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Eventos independientes",
+    "definicion": "Eventos cuya ocurrencia no afecta la probabilidad del otro.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Distribución normal",
+    "definicion": "Distribución continua simétrica en forma de campana.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Muestra",
+    "definicion": "Subconjunto representativo de una población.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Población",
+    "definicion": "Conjunto total de individuos u objetos de estudio.",
+    "tema": "Matemática: Probabilidad y estadística"
+  },
+  {
+    "concepto": "Metáfora",
+    "definicion": "Traslado de significado por semejanza entre dos elementos.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Símil",
+    "definicion": "Comparación explícita entre dos elementos usando conectores como 'como'.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Hipérbole",
+    "definicion": "Exageración deliberada con fines expresivos.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Personificación",
+    "definicion": "Atribución de cualidades humanas a seres inanimados o abstractos.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Ironía",
+    "definicion": "Decir lo contrario de lo que se quiere expresar, con intención comunicativa.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Aliteración",
+    "definicion": "Repetición de sonidos similares en palabras cercanas.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Anáfora",
+    "definicion": "Repetición de una o más palabras al inicio de versos o enunciados.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Onomatopeya",
+    "definicion": "Imitación de sonidos mediante palabras.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Oxímoron",
+    "definicion": "Unión de términos de significado opuesto en una misma expresión.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Eufemismo",
+    "definicion": "Atenuación de una expresión dura por otra más suave.",
+    "tema": "Comprensión Lectora: Figuras retóricas"
+  },
+  {
+    "concepto": "Texto narrativo",
+    "definicion": "Relata hechos reales o ficticios con personajes, tiempo y espacio.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Texto expositivo",
+    "definicion": "Explica o informa sobre un tema de manera objetiva.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Texto argumentativo",
+    "definicion": "Defiende una postura mediante razones y evidencias.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Texto instructivo",
+    "definicion": "Entrega pasos u órdenes para realizar una tarea.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Texto descriptivo",
+    "definicion": "Caracteriza personas, objetos, lugares o procesos.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Tesis",
+    "definicion": "Idea principal que se defiende en un texto argumentativo.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Contraargumento",
+    "definicion": "Razón que se opone o responde a un argumento previo.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Conclusión",
+    "definicion": "Cierre que resume y refuerza la postura del texto.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Coherencia",
+    "definicion": "Relación lógica entre las partes del texto.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Cohesión",
+    "definicion": "Conexión formal entre oraciones mediante conectores y referencias.",
+    "tema": "Comprensión Lectora: Tipos de texto y argumentación"
+  },
+  {
+    "concepto": "Idea principal",
+    "definicion": "Enunciado que resume lo más importante de un párrafo o texto.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Inferencia",
+    "definicion": "Conclusión implícita que se deduce a partir de pistas del texto.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Contexto",
+    "definicion": "Conjunto de circunstancias que rodean el texto y ayudan a interpretarlo.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Conector lógico",
+    "definicion": "Palabra o expresión que establece relaciones entre ideas.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Punto de vista",
+    "definicion": "Perspectiva desde la cual se narra o analiza un hecho.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Voz narrativa",
+    "definicion": "Entidad que relata los hechos (primera, segunda, tercera persona).",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Tono",
+    "definicion": "Actitud o emoción del emisor ante el tema o el receptor.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Tema",
+    "definicion": "Asunto general del que trata el texto.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Resumen",
+    "definicion": "Reducción del texto conservando ideas fundamentales con propias palabras.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Paráfrasis",
+    "definicion": "Reformulación del contenido con palabras distintas conservando el sentido.",
+    "tema": "Comprensión Lectora: Competencias de comprensión"
+  },
+  {
+    "concepto": "Ilustración",
+    "definicion": "Movimiento intelectual del siglo XVIII que exaltó la razón y la ciencia.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Revolución francesa",
+    "definicion": "Proceso iniciado en 1789 que transformó el orden político y social en Francia.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Imperio romano",
+    "definicion": "Entidad política que dominó el Mediterráneo entre los siglos I a.C. y V d.C.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Feudalismo",
+    "definicion": "Sistema social y económico medieval basado en lazos de vasallaje y tierras.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Renacimiento",
+    "definicion": "Movimiento cultural de los siglos XV y XVI que recuperó ideales clásicos.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Colonialismo",
+    "definicion": "Dominación política y económica de un territorio por una potencia.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Independencia de América",
+    "definicion": "Procesos del siglo XIX que dieron lugar a nuevos estados americanos.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Primera Guerra Mundial",
+    "definicion": "Conflicto global entre 1914 y 1918 con nuevas formas de guerra industrial.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Segunda Guerra Mundial",
+    "definicion": "Conflicto global entre 1939 y 1945 de alcance militar y civil sin precedentes.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Guerra Fría",
+    "definicion": "Tensión geopolítica entre EE. UU. y la URSS tras 1945 sin enfrentamiento directo.",
+    "tema": "Ciencias Sociales: Historia universal"
+  },
+  {
+    "concepto": "Latitud",
+    "definicion": "Distancia angular al norte o sur del ecuador, medida en grados.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Longitud",
+    "definicion": "Distancia angular al este u oeste del meridiano de Greenwich.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Clima",
+    "definicion": "Promedio de condiciones atmosféricas de una región en largos periodos.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Bioma",
+    "definicion": "Gran región ecológica caracterizada por clima, flora y fauna similares.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Cuenca hidrográfica",
+    "definicion": "Territorio drenado por un río principal y sus afluentes.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Relieve",
+    "definicion": "Conjunto de formas que presenta la superficie terrestre.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Urbanización",
+    "definicion": "Proceso de crecimiento de la población y de las áreas urbanas.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Migración",
+    "definicion": "Desplazamiento de personas desde un lugar a otro de manera temporal o permanente.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Densidad de población",
+    "definicion": "Número de habitantes por unidad de superficie.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Mapa temático",
+    "definicion": "Mapa que representa un fenómeno específico en un territorio.",
+    "tema": "Ciencias Sociales: Geografía"
+  },
+  {
+    "concepto": "Constitución",
+    "definicion": "Norma fundamental que organiza el Estado y reconoce derechos y deberes.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Estado de derecho",
+    "definicion": "Principio por el cual todos están sometidos a la ley, incluido el Estado.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Poderes del Estado",
+    "definicion": "Funciones separadas del gobierno: ejecutivo, legislativo y judicial.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Ciudadanía",
+    "definicion": "Condición que otorga derechos y deberes políticos y civiles.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Sufragio",
+    "definicion": "Derecho a votar para elegir representantes o decidir asuntos públicos.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Derechos humanos",
+    "definicion": "Garantías inherentes a todas las personas por su dignidad.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Separación de poderes",
+    "definicion": "Distribución de funciones para limitar el poder y evitar abusos.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Ley",
+    "definicion": "Norma jurídica de cumplimiento obligatorio emanada de autoridad competente.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "República",
+    "definicion": "Forma de gobierno donde la autoridad emana de la ciudadanía y sus representantes.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Democracia",
+    "definicion": "Sistema político basado en la participación y la soberanía popular.",
+    "tema": "Ciencias Sociales: Educación cívica"
+  },
+  {
+    "concepto": "Átomo",
+    "definicion": "Unidad básica de la materia compuesta por protones, neutrones y electrones.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Número atómico",
+    "definicion": "Cantidad de protones en el núcleo de un átomo.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Masa atómica",
+    "definicion": "Suma de protones y neutrones de un átomo expresada en uma.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Isótopo",
+    "definicion": "Átomos del mismo elemento con igual número atómico y distinta masa.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Catión",
+    "definicion": "Ión con carga positiva por pérdida de electrones.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Anión",
+    "definicion": "Ión con carga negativa por ganancia de electrones.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Configuración electrónica",
+    "definicion": "Distribución de los electrones en niveles y subniveles de energía.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Orbital",
+    "definicion": "Región del espacio donde es más probable encontrar un electrón.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Nivel de energía",
+    "definicion": "Estado cuantizado que puede ocupar un electrón en el átomo.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Tabla periódica",
+    "definicion": "Ordenamiento de elementos según su número atómico y propiedades.",
+    "tema": "Química: Estructura atómica"
+  },
+  {
+    "concepto": "Enlace iónico",
+    "definicion": "Atracción electrostática entre iones con cargas opuestas.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Enlace covalente",
+    "definicion": "Compartición de pares de electrones entre átomos.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Enlace metálico",
+    "definicion": "Red de cationes metálicos rodeados por electrones deslocalizados.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Electronegatividad",
+    "definicion": "Tendencia de un átomo a atraer electrones en un enlace.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Polaridad",
+    "definicion": "Distribución desigual de cargas en una molécula o enlace.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Molécula",
+    "definicion": "Agrupación estable de átomos unidos por enlaces covalentes.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Compuesto iónico",
+    "definicion": "Sustancia formada por iones positivos y negativos en una red cristalina.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Dipolo",
+    "definicion": "Separación de cargas dentro de una molécula que genera un momento eléctrico.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Soluto",
+    "definicion": "Sustancia que se disuelve en un solvente para formar una solución.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Solvente",
+    "definicion": "Sustancia que disuelve al soluto; mayoritaria en la solución.",
+    "tema": "Química: Enlaces y sustancias"
+  },
+  {
+    "concepto": "Reacción química",
+    "definicion": "Proceso de transformación de sustancias en otras con distinta composición.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Mol",
+    "definicion": "Unidad que representa 6,022×10^23 entidades elementales.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Masa molar",
+    "definicion": "Masa de un mol de una sustancia.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Balanceo",
+    "definicion": "Ajuste de coeficientes en una ecuación química para conservar átomos.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Ley de conservación de la masa",
+    "definicion": "En una reacción química, la masa total se mantiene constante.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Reactivo limitante",
+    "definicion": "Reactivo que se consume primero y determina la cantidad de producto.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Rendimiento",
+    "definicion": "Relación entre la cantidad obtenida y la teórica de producto.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Concentración molar",
+    "definicion": "Cantidad de soluto por litro de solución (molaridad).",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Gas ideal",
+    "definicion": "Modelo de gas con partículas puntuales sin interacción salvo colisiones.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "Ecuación química",
+    "definicion": "Representación simbólica de una reacción con reactivos y productos.",
+    "tema": "Química: Reacciones y estequiometría"
+  },
+  {
+    "concepto": "pH",
+    "definicion": "Medida de la acidez o basicidad de una solución; pH<7 ácido, pH>7 básico.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Ácido",
+    "definicion": "Sustancia que dona protones o acepta pares de electrones.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Base",
+    "definicion": "Sustancia que acepta protones o dona pares de electrones.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Neutralización",
+    "definicion": "Reacción entre ácido y base que produce sal y agua.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Solubilidad",
+    "definicion": "Cantidad máxima de soluto que puede disolverse en un solvente a cierta temperatura.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Propiedades coligativas",
+    "definicion": "Propiedades que dependen del número de partículas disueltas (no de su naturaleza).",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Oxidación",
+    "definicion": "Pérdida de electrones por una especie química.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Reducción",
+    "definicion": "Ganancia de electrones por una especie química.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Agente oxidante",
+    "definicion": "Sustancia que provoca la oxidación de otra al reducirse.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "Agente reductor",
+    "definicion": "Sustancia que provoca la reducción de otra al oxidarse.",
+    "tema": "Química: Disoluciones y reacciones ácido‑base/redox"
+  },
+  {
+    "concepto": "ADN",
+    "definicion": "Molécula que almacena la información genética de los seres vivos.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Gen",
+    "definicion": "Segmento de ADN que codifica un producto funcional.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Cromosoma",
+    "definicion": "Estructura formada por ADN y proteínas que contiene genes.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Alelo",
+    "definicion": "Variación de un gen que ocupa el mismo locus en cromosomas homólogos.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Fenotipo",
+    "definicion": "Conjunto de rasgos observables de un organismo.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Genotipo",
+    "definicion": "Conjunto de genes de un organismo.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Mitosis",
+    "definicion": "Proceso de división celular que genera dos células hijas idénticas.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Meiosis",
+    "definicion": "División celular que produce gametos con la mitad del número de cromosomas.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Herencia dominante",
+    "definicion": "Relación donde un alelo dominante se expresa sobre el recesivo.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Mutación",
+    "definicion": "Cambio permanente en la secuencia de ADN.",
+    "tema": "Biología: Genética"
+  },
+  {
+    "concepto": "Ecosistema",
+    "definicion": "Conjunto de organismos que interactúan con su ambiente físico.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Población",
+    "definicion": "Conjunto de individuos de la misma especie que habitan un área.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Comunidad",
+    "definicion": "Conjunto de poblaciones que coexisten en un área.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Nicho ecológico",
+    "definicion": "Papel funcional de una especie en su ecosistema.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Cadena trófica",
+    "definicion": "Secuencia de transferencia de energía alimentaria entre organismos.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Productor",
+    "definicion": "Organismo que produce su propio alimento, generalmente por fotosíntesis.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Consumidor",
+    "definicion": "Organismo que obtiene energía alimentándose de otros.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Descomponedor",
+    "definicion": "Organismo que degrada materia orgánica y recicla nutrientes.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Biodiversidad",
+    "definicion": "Variedad de especies, genes y ecosistemas en un área.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Sucesión ecológica",
+    "definicion": "Cambio ordenado de comunidades a lo largo del tiempo en un ecosistema.",
+    "tema": "Biología: Ecología"
+  },
+  {
+    "concepto": "Célula",
+    "definicion": "Unidad estructural y funcional básica de los seres vivos.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Membrana plasmática",
+    "definicion": "Bicapa lipídica que delimita la célula y regula el intercambio.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Mitocondria",
+    "definicion": "Orgánulo responsable de la producción de ATP por respiración celular.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Cloroplasto",
+    "definicion": "Orgánulo fotosintético presente en células vegetales.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Fotosíntesis",
+    "definicion": "Conversión de energía lumínica en química produciendo glucosa y oxígeno.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Respiración celular",
+    "definicion": "Proceso de obtención de energía a partir de nutrientes y oxígeno.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Difusión",
+    "definicion": "Movimiento de partículas desde zonas de mayor a menor concentración.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Ósmosis",
+    "definicion": "Difusión de agua a través de una membrana semipermeable.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Enzima",
+    "definicion": "Catalizador biológico que acelera reacciones celulares.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Homeostasis",
+    "definicion": "Mantenimiento de condiciones internas estables en los organismos.",
+    "tema": "Biología: Célula y procesos"
+  },
+  {
+    "concepto": "Desplazamiento",
+    "definicion": "Vector que une la posición inicial con la final de un móvil.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Velocidad",
+    "definicion": "Razón de cambio del desplazamiento respecto del tiempo.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Aceleración",
+    "definicion": "Razón de cambio de la velocidad en el tiempo.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "MRU",
+    "definicion": "Movimiento rectilíneo uniforme: velocidad constante y aceleración cero.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "MRUA",
+    "definicion": "Movimiento rectilíneo uniformemente acelerado: aceleración constante.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Trayectoria",
+    "definicion": "Línea que describe un móvil al desplazarse.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Tiempo",
+    "definicion": "Magnitud que ordena la secuencia de eventos.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Posición",
+    "definicion": "Lugar ocupado por un objeto en un sistema de referencia.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Gráfico x–t",
+    "definicion": "Representación de posición contra tiempo para un móvil.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Vector",
+    "definicion": "Magnitud con módulo, dirección y sentido.",
+    "tema": "Física: Cinemática"
+  },
+  {
+    "concepto": "Fuerza",
+    "definicion": "Interacción capaz de cambiar el estado de movimiento de un cuerpo.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Masa",
+    "definicion": "Medida de la inercia de un cuerpo.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Peso",
+    "definicion": "Fuerza de gravedad que actúa sobre un cuerpo.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Inercia",
+    "definicion": "Tendencia de un cuerpo a mantener su estado de movimiento.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Primera ley de Newton",
+    "definicion": "Un cuerpo mantiene su estado si no actúa una fuerza neta sobre él.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Segunda ley de Newton",
+    "definicion": "La fuerza neta es igual a masa por aceleración (F=ma).",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Tercera ley de Newton",
+    "definicion": "A toda acción corresponde una reacción de igual magnitud y sentido opuesto.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Cantidad de movimiento",
+    "definicion": "Producto de masa y velocidad de un cuerpo (momento lineal).",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Impulso",
+    "definicion": "Cambio de cantidad de movimiento provocado por una fuerza en un intervalo.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Fricción",
+    "definicion": "Fuerza que se opone al movimiento relativo entre superficies.",
+    "tema": "Física: Dinámica"
+  },
+  {
+    "concepto": "Energía cinética",
+    "definicion": "Energía asociada al movimiento de un cuerpo.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Energía potencial",
+    "definicion": "Energía almacenada por la posición o configuración de un sistema.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Trabajo",
+    "definicion": "Transferencia de energía por la acción de una fuerza a lo largo de un desplazamiento.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Potencia",
+    "definicion": "Ritmo al que se realiza trabajo o se transforma energía.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Conservación de la energía",
+    "definicion": "La energía total de un sistema aislado se mantiene constante.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Onda",
+    "definicion": "Perturbación que se propaga transportando energía sin transferir materia en conjunto.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Frecuencia",
+    "definicion": "Número de oscilaciones por unidad de tiempo.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Amplitud",
+    "definicion": "Máxima separación respecto de la posición de equilibrio en una oscilación.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Longitud de onda",
+    "definicion": "Distancia entre crestas (o dos puntos equivalentes) consecutivas de una onda.",
+    "tema": "Física: Energía y ondas"
+  },
+  {
+    "concepto": "Luz",
+    "definicion": "Radiación electromagnética visible para el ojo humano.",
+    "tema": "Física: Energía y ondas"
+  }
+]
